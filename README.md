@@ -2,13 +2,14 @@
 
 Interaktywne laboratorium uczenia maszynowego i odpowiedzialnej sztucznej inteligencji dla edukacji.
 
-Uczniowie trenują model, sprawdzają, czego nauczył się z danych, wykrywają nierówne traktowanie i poprawiają system poprzez zmianę danych lub wykorzystywanych cech.
+Uczniowie trenują rzeczywisty model, sprawdzają, czego nauczył się z danych, wykrywają nierówne traktowanie oraz obserwują wpływ własnych zmian na wyniki modelu.
 
 ## Strona projektu
 
 https://aimodellab.github.io/
 
-## Status
+## Status projektu
 
-Projekt jest obecnie rozwijany i przygotowywany do pilotażu edukacyjnego.
+Projekt jest obecnie rozwijany i przygotowywany do pilotażu edukacyjnego. Finalna wersja aplikacji zostanie opublikowana po zakończeniu testów.
+
 
